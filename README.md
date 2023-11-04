@@ -20,4 +20,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/WAKATIME-000000?logo=wakatime&logoColor=white"/>
   </a>
 </div>
-[![iiVSX's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiVSX&show_icons=true&theme=radical)](https://github.com/iiVSX/github-readme-stats)
+<br>
+
+[![iiVSX's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iiVSX)](https://wakatime.com/@iiVSX)
+
+![iiVSX's github stats](https://github-readme-stats.vercel.app/api?username=iiVSX&show_icons=true&theme=tokyonight)
+<br>
+
+![iiVSX's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iiVSX&show_icons=true&theme=tokyonight)
