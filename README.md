@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# SEHOON OH 😉
+# SEHOON OH 👾
 <div>
   <a href="https://drive.google.com/file/d/1Knf34WfS3SkVJ5uUz7IvoDNVrDy3RL9y/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/RESUME-018EF5?logo=readme&logoColor=white"/>
@@ -36,15 +36,14 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-A8B9CC.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/C++-A8B9CC.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900.svg?&style=for-the-badge&logo=AWS%20EC2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31.svg?&style=for-the-badge&logo=AWS%20S3&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF.svg?&style=for-the-badge&logo=AWS%20RDS&logoColor=white)
-![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF9900.svg?&style=for-the-badge&logo=AWS%20CloudWatch&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF9900.svg?&style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)
-![Linux](https://img.shields.io/badge/C++-A8B9CC.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
